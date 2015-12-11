@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\__Scripts\Bartok.cs">
+    <Files>
+      <File FileName="Assets\__Scripts\Player.cs" Line="150" Column="22" />
+      <File FileName="Assets\__Scripts\Bartok.cs" Line="14" Column="38" />
+      <File FileName="Assets\__Scripts\CardBartok.cs" Line="87" Column="3" />
+      <File FileName="Assets\__Scripts\Utils.cs" Line="359" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
